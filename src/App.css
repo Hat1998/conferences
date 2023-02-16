@@ -1,0 +1,29 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Tajawal&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Tajawal:wght@400;700&display=swap');
+#root{
+  font-family: 'Oswald', sans-serif;
+font-family: 'Tajawal', sans-serif;
+}
+
+
+
+
+.spinner{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5rem;
+  display: table;
+ 
+}
+.card {
+  border-radius: .7rem;
+}
+.list{
+  border: 1px solid #000;
+}
+@media (min-width: 1025px) {
+  .h-custom-2 {
+    height: 100%;
+    }
+  }
+  
